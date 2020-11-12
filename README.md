@@ -1,4 +1,8 @@
-# Welcome to an awesome CDK TypeScript project!
+# Isolated Test Environments POC
+
+:fire::fire::fire: You will find the blog post accompanying this repository here: https://www.devies.se/blog/1471/ :fire::fire::fire:
+
+---
 
 The purpose of this repository is to demonstrate a pipeline (using Github Actions) which deploys a new and isolated version of a simple application for every pull request. This means that you can try out your changes, run integration tests etc before you merge your branch into master and without affecting the code running in production in any way.
 
